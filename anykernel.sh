@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Genom Kernel by rama982 @ telegram
+kernel.string=SixTeen Kernel by Kyvangka1610
 do.devicecheck=1
 do.modules=1
 do.systemless=0
